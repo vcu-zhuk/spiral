@@ -8,6 +8,7 @@ def spiralize(number):
         )
     return return_value
 
+
 if __name__ == "__main__":
     print(spiralize(5))
     print(spiralize(501))
